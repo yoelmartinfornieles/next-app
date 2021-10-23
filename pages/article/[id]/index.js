@@ -2,12 +2,14 @@
  */
 import {server} from '../../../config/index'
 import Link from "next/link"
+import Meta from '../../../components/Meta'
 
 const article = ({article}) => {
 /* 	const router = useRouter()
 	const {id} = router.query */
 	return (
 		<>
+			<Meta title={article.title} description={article.excerpt}/>
 			<h1>{article.title}</h1>
 			<p>{article.body}</p>
 			<br />
