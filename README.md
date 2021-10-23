@@ -5,7 +5,7 @@
 ## Screenshots
 
 <img src="/public/images/web.png" title="Home Page" width="100%">
-<img src="/public/images/mobile.png" title="Article details" width="100%">
+<img src="/public/images/mobile.png" title="Article details" width="10%" align='center'>
 
 ## Install
 
