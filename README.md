@@ -1,9 +1,4 @@
-<h1 align="center">Welcome to learning next js 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/learning next js" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/learning next js.svg">
-  </a>
-</p>
+<h1 align="center">learning next js</h1>
 
 > Simple webpage to play with next js
 
