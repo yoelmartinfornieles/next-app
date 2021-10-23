@@ -1,11 +1,11 @@
 <h1 align="center">learning next js</h1>
 
-> Simple webpage to play with next js
+```Simple webpage to play with next js```
 
 ## Screenshots
 
 <img src="/public/images/web.png" title="Home Page" width="100%">
-<img src="/public/images/mobile.png" title="Article details" width="10%" align='center'>
+<p align="center"><img src="/public/images/mobile.png" title="Article details" width="30%"></p>
 
 ## Install
 
